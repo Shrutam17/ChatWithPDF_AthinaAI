@@ -1,6 +1,5 @@
 # ChatwithPDF
 ChatwithPDF-Your document assistant.
-Follow this [link](https://drive.google.com/drive/folders/1D5eJtdLSYhUJ0dgnw1IMhDGQmNjO505t) for demo video 
 
 # Introduction 
 Here I have designed a RAG (Retrieval-Augmented Generation) powered
