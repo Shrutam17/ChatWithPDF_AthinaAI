@@ -52,7 +52,7 @@ Ensure the following dependencies are installed externally:
 * .env file needs to be created with  API keys or virtual environment needs to  be created.
 
 # Results
-* Out of 32 pairs of human response and chatbot response against corresponding query, 25 of them have BERT similarity score over 3.0 and hence approximate accuracy of 80%.
+* Out of 32 pairs of human response and chatbot response against corresponding query, 25 of them have BERT similarity score over 3.0 on a scale of 1 to 5 and hence approximate accuracy of 80%.
 
 
 # Conclusion 
